@@ -171,9 +171,8 @@ Web Dev    █████████████░░░░░░░
 </a>
 
 <a href="https://leetcode.com/u/Avhijan_Paulchoudhury/">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Avhijan_Paulchoudhury?theme=dark&ext=heatmap&font=Karma" alt="LeetCode Stats"/>
 </p>
 
 ---
