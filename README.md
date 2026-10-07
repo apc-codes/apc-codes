@@ -191,7 +191,7 @@ And I'm here to explore that intersection — one project, one problem, and one 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=apc-codes&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 <p align="center">
