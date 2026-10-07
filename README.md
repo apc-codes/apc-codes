@@ -11,15 +11,14 @@
 ## 🚀 About Me
 
 🎓 **B.Tech Student** at **Jadavpur University**
+
 ⚡ **Electrical Power Engineering** | Minor in CSE 
+
 💻 Passionate about **Software Development, Data Science & Machine Learning**
+
 🌐 Exploring **Web Development** and building practical projects
 🧠 Currently sharpening my **DSA & Problem-Solving** skills
 🔬 Interested in combining **Engineering + AI/ML + Software**
-
-> *I enjoy building things where **codes meet circuits** — from software projects to intelligent engineering applications.*
-
----
 
 ## 🎓 Educational Background
 
@@ -127,14 +126,6 @@ A data-driven project focused on analyzing traffic patterns and forecasting traf
 
 ---
 
-### ⚡ Web-Based Energy Analyzer
-
-A web-based engineering application designed to analyze and visualize energy-related data.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
 ## 🧠 Problem Solving
 
 💡 I regularly practice **Data Structures & Algorithms** and competitive programming concepts.
@@ -143,11 +134,10 @@ A web-based engineering application designed to analyze and visualize energy-rel
 DSA        ███████████████████░░
 Python     ████████████████████░
 Data Sci   ████████████████░░░░
-ML         ██████████████░░░░░░
 Web Dev    █████████████░░░░░░░
 ```
 
-> *Consistency > Motivation.*
+> *Consistency & Discipline > Motivation & Talent.*
 
 ---
 
@@ -190,7 +180,7 @@ Web Dev    █████████████░░░░░░░
 
 ## ⚡ My Philosophy
 
-### **"Growing with Codes and Circuits."**
+### **"Turning Problems into Code, and Data into Insights"**
 
 I believe the most interesting problems lie at the intersection of different fields.
 
