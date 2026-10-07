@@ -17,8 +17,8 @@
 💻 Passionate about **Software Development, Data Science & Machine Learning**
 
 🌐 Exploring **Web Development** and building practical projects
+
 🧠 Currently sharpening my **DSA & Problem-Solving** skills
-🔬 Interested in combining **Engineering + AI/ML + Software**
 
 ## 🎓 Educational Background
 
