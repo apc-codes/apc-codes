@@ -18,6 +18,10 @@
 
 ## Connect With Me
 
+<a href="mailto:avhijanpc1709@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <a href="www.linkedin.com/in/avhijanpaulchoudhury">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -39,7 +43,7 @@
 
 | 🎓 Qualification | 🏫 Institution | 📌 Details |
 |---|---|---|
-| **B.Tech** | **Jadavpur University** · 2025–29 | Power Engineering (EE) · CSE Minor |
+| **B.Tech** | **Jadavpur University** · 2025–29 | Power (EE) Major · CSE Minor |
 | **Class XII** | **DAV School** · CBSE · 2023–25 | PCM + Computer Science |
 | **Class X** | **GSS Bagdogra** · ICSE · 2011–23 | State Ranker |
 
@@ -53,11 +57,11 @@
           ┌─────────────────┼─────────────────┐
           │                 │                 │
           ▼                 ▼                 ▼
-      DATA SCIENCE    MACHINE LEARNING     WEB DEV
+      DATA SCIENCE         DSA              WEB DEV
           │                 │                 │
-     Python / SQL       ML Algorithms      HTML / CSS
-     NumPy / Pandas     Prediction         JavaScript
-     Data Analysis      AI Applications    Full Stack
+    ML Techniques    Pattern Recognition     HTML / CSS
+     Analytics       Code Optimization       JavaScript
+    Data Insights    Complexity Analysis     Full Stack
           │                 │                 │
           └─────────────────┼─────────────────┘
                             ▼
@@ -71,9 +75,11 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,html,css,js,mysql,git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="48"/>
 </p>
-
-**Data & ML:** NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
 
 ---
 
