@@ -3,22 +3,20 @@
 ### `Explorer by passion , Coder by occupation` 💻⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Power+Engineering+%7C+Jadavpur+University;Data+Science+%7C+Machine+Learning;Web+Development+%7C+Software;Coding+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+%7C+Jadavpur+University;Data+Science+%7C+Machine+Learning;Web+Development+%7C+Software;Coding+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-🎓 **B.Tech Student** at **Jadavpur University**,Pursuing Electrical Power Engineering**| Minor in CSE 
+🎓 **B.Tech Student** at **Jadavpur University**,Pursuing **Electrical Power Engineering**| Minor in CSE 
 
 💻 Passionate about **Software Development, Data Science & Machine Learning**
 
 🌐 Exploring **Web Development** and building practical projects & sharpening my **Problem-Solving** skills
 
-## 🌐 Connect With Me
-
-<p align="center">
+## Connect With Me
 
 <a href="www.linkedin.com/in/avhijanpaulchoudhury">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -37,14 +35,11 @@
 </a>
 ---
 
-## 🎓 Educational Background
-
-| 🎓 Qualification | 🏫 Institution          | 📌 Details                   |
-| ---------------- | ----------------------- | ---------------------------- |
-| **B.Tech**       | **Jadavpur University** | Power (EE) Majors · CSE Minor|
-| **Class XII**    | CBSE-  DAV School       | PCM + Computer Science       |
-| **Class X**      | ICSE-  GSS Bagdogra     | State Ranker                 |
-
+| 🎓 Qualification | 🏫 Institution | 📌 Details |
+|---|---|---|
+| **B.Tech** | **Jadavpur University** · 2025–29 | Power Engineering (EE) · CSE Minor |
+| **Class XII** | **DAV School** · CBSE · 2023–25 | PCM + Computer Science |
+| **Class X** | **GSS Bagdogra** · ICSE · 2011–23 | State Ranker |
 
 ## 💻 What I'm Interested In
 
@@ -72,78 +67,24 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,c" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,c,html,css,js,mysql,git,github,vscode" />
 </p>
 
-### 📊 Data & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `Data Analysis` • `Machine Learning`
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Data & ML:** NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning
 
 ---
-
-## Featured Projects
-
-### 📊 IPL 2025 Statistics Dashboard
-
-Data analysis and visualization project exploring IPL 2025 statistics, team performance and match insights.
-
-**Tech:** `Python` `Pandas` `Data Analysis` `Streamlit`
-
----
-
-### 🌾 Crop Prediction System
-
-Machine Learning based system for predicting suitable crops using agricultural and environmental parameters.
-
-**Tech:** `Python` `Machine Learning` `Pandas` `Scikit-learn`
-
----
-
-### 🚦 Smart City Traffic Forecasting
-
-A data-driven project focused on analyzing traffic patterns and forecasting traffic conditions.
-
-**Tech:** `Python` `Data Science` `Machine Learning`
-
----
-
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apc-codes&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apc-codes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=apc-codes&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apc-codes&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=apc-codes&label=Profile%20Views&color=000000&style=for-the-badge" />
 </p>
-
 <p align="center">
   ⭐ <b>If you find my projects interesting, consider giving them a star!</b> ⭐
 </p>
