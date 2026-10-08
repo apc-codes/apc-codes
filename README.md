@@ -8,25 +8,42 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 **B.Tech Student** at **Jadavpur University**
-
-⚡ **Electrical Power Engineering** | Minor in CSE 
+🎓 **B.Tech Student** at **Jadavpur University**,Pursuing Electrical Power Engineering**| Minor in CSE 
 
 💻 Passionate about **Software Development, Data Science & Machine Learning**
 
-🌐 Exploring **Web Development** and building practical projects
+🌐 Exploring **Web Development** and building practical projects & sharpening my **Problem-Solving** skills
 
-🧠 Currently sharpening my **DSA & Problem-Solving** skills
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/avhijanpaulchoudhury">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/avhijan_pc/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/apc-codes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Avhijan_Paulchoudhury/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+---
 
 ## 🎓 Educational Background
 
 | 🎓 Qualification | 🏫 Institution          | 📌 Details                   |
 | ---------------- | ----------------------- | ---------------------------- |
-| **B.Tech**       | **Jadavpur University** | Power Engineering · 2nd Year |
-| **Class XII**    | CBSE-DAV School         | PCM + Computer Science       |
-| **Class X**      | ICSE- GSS Bagdogra      | State Ranker      |
+| **B.Tech**       | **Jadavpur University** | Power (EE) Majors · CSE Minor|
+| **Class XII**    | CBSE-  DAV School       | PCM + Computer Science       |
+| **Class X**      | ICSE-  GSS Bagdogra     | State Ranker                 |
 
 
 ## 💻 What I'm Interested In
@@ -48,10 +65,7 @@
           └─────────────────┼─────────────────┘
                             ▼
                     ⚡ ENGINEERING
-                            │
-                     Smart Grids
-                     Energy Systems
-                     AI + Power
+                          
 ```
 
 ---
@@ -86,23 +100,9 @@
 
 ---
 
-## 📈 Currently Learning
+## Featured Projects
 
-```diff
-+ Data Structures & Algorithms
-+ Data Science
-+ Machine Learning
-+ Web Development
-+ SQL & Database Management
-+ AI Applications
-+ Engineering Applications of ML
-```
-
----
-
-## 🚀 Featured Projects
-
-### 📊 IPL 2025 Analytics
+### 📊 IPL 2025 Statistics Dashboard
 
 Data analysis and visualization project exploring IPL 2025 statistics, team performance and match insights.
 
@@ -126,20 +126,6 @@ A data-driven project focused on analyzing traffic patterns and forecasting traf
 
 ---
 
-## 🧠 Problem Solving
-
-💡 I regularly practice **Data Structures & Algorithms** and competitive programming concepts.
-
-```text
-DSA        ███████████████████░░
-Python     ████████████████████░
-Data Sci   ████████████████░░░░
-Web Dev    █████████████░░░░░░░
-```
-
-> *Consistency & Discipline > Motivation & Talent.*
-
----
 
 ## 📊 GitHub Stats
 
@@ -151,39 +137,6 @@ Web Dev    █████████████░░░░░░░
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=apc-codes&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="www.linkedin.com/in/avhijanpaulchoudhury">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/avhijan_pc/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/apc-codes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Avhijan_Paulchoudhury/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
----
-
-## ⚡ My Philosophy
-
-### **"Turning Problems into Code, and Data into Insights"**
-
-I believe the most interesting problems lie at the intersection of different fields.
-
-**Electrical Acads⚡ × Software 💻 × Data 📊 × AI 🤖**
-
-And I'm here to explore that intersection — one project, one problem, and one line of code at a time.
 
 ---
 
