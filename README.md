@@ -1,6 +1,6 @@
-# ⚡ Hey, I'm Avhijan Paul Choudhury! 👋
+## ⚡ Hey, I'm Avhijan Paul Choudhury! 👋
 
-### `Explorer by passion , Coder by occupation` 💻⚡
+### `An Explorer by passion , Coder by occupation` 💻⚡
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+%7C+Jadavpur+University;Data+Science+%7C+Machine+Learning;Web+Development+%7C+Software;Coding+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ## About Me
 
-🎓 **B.Tech Student** at **Jadavpur University**,Pursuing **Electrical Power Engineering**| Minor in CSE 
+🎓 **B.Tech Student** at **Jadavpur University**,Pursuing **Electrical Power Engineering** | Minor in CSE 
 
 💻 Passionate about **Software Development, Data Science & Machine Learning**
 
@@ -35,6 +35,8 @@
 </a>
 ---
 
+## Educational Journey
+
 | 🎓 Qualification | 🏫 Institution | 📌 Details |
 |---|---|---|
 | **B.Tech** | **Jadavpur University** · 2025–29 | Power Engineering (EE) · CSE Minor |
@@ -51,7 +53,7 @@
           ┌─────────────────┼─────────────────┐
           │                 │                 │
           ▼                 ▼                 ▼
-     📊 DATA SCIENCE    🤖 MACHINE LEARNING   🌐 WEB DEV
+      DATA SCIENCE    MACHINE LEARNING     WEB DEV
           │                 │                 │
      Python / SQL       ML Algorithms      HTML / CSS
      NumPy / Pandas     Prediction         JavaScript
